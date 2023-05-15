@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DajanaDrabczyk
 - 👀 I’m interested in Data Engineering and Machine Learning
-- 🌱 I’m currently learning Data Engineering - Big Data in Gdansk Univeristy of Technology
+- 🌱 I graduated Data Engineering - Big Data in Gdansk Univeristy of Technology
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me drabczykdajana@gmail.com or linkedin.com/in/dajanadrabczyk
 
